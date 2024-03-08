@@ -1,3 +1,6 @@
+- [**View my correct solution**](https://github.com/algorand-coding-challenges/challenge-1/pull/54)
+
+
 # 🎮 Algorand Coding Challenge: Fix The Bug 🐞!
 
 ## 🚩 Challenge 1: I Can't Send My Transaction! 😭
