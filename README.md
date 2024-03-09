@@ -1,4 +1,4 @@
-- [**View my correct solution**](https://github.com/algorand-coding-challenges/challenge-1/pull/54)
+- [**View my correct solution.**](https://github.com/algorand-coding-challenges/challenge-1/pull/54)
 - [**View my awarded NFT!**](https://nftexplorer.app/asset/1632029599)
 
 # 🎮 Algorand Coding Challenge: Fix The Bug 🐞!
