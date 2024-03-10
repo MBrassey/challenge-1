@@ -1,5 +1,5 @@
 - [**View my correct solution.**](https://github.com/algorand-coding-challenges/challenge-1/pull/54)
-- [**View my awarded NFT!**](https://nftexplorer.app/asset/1632029599)
+- [**View my awarded NFT!**](https://allo.info/account/CFCMV3RSH2KMLVIPERAHBNXYPQMXUDL2XTOBZQDFXFQITJN5I7RWAMLHUI/assets)
 
 # 🎮 Algorand Coding Challenge: Fix The Bug 🐞!
 
